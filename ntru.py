@@ -11,7 +11,7 @@ import helper
 
 class NTRU:
     """
-    NTRU Class
+    NTRU Class - secure cryptosystem post quantum computing
     """
     N = 7
     p = 3
