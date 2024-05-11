@@ -1,7 +1,5 @@
 20-April-2024
 Nicolas Nguyen
-CS401 - Prof. Duncan Buell
-Denison University
 _______________________________________________________________________________________________
 
 		            	NTRU Encryption/Decryption
