@@ -16,7 +16,7 @@ This project's implementation is based on the research presented by Hoffstein, P
 
     ├── README.md          <- The top-level README for developers using this project.
     ├── ntru.py            <- NTRU class implementation with encryption/decryption methods
-    ├── models             <- Contains utility functions for ntru.py. Within this module, some methods within this module are adapted from external sources (detailed in the comments).
+    ├── models             <- Contains utility functions for ntru.py. Within this module, some methods are adapted from external sources (detailed in the comments).
     ├── main.py            <- Parses input file and instantiates the NTRU class
     ├── input1.txt         <- Input parameters
     ├── input2.txt         <- Input parameters
