@@ -32,3 +32,12 @@ $ pip3 install -r requirements.txt
 ```bash
 $ git clone https://github.com/AtypicalAsian/NTRU-cryptosystem.git
 ```
+
+## Usage
+To run the program against a specific file, use the following command:
+```bash
+$ python main.py <filename>
+```
+
+## Demo Output Log
+
