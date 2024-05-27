@@ -40,4 +40,4 @@ $ python main.py <filename>
 ```
 
 ## Demo Output Log
-
+![DEMO OUTPUT!](demo_output.png)
